@@ -1,0 +1,32 @@
+html {
+    background-color: rgb(142, 164, 226);
+}
+
+.menu {
+    background-color:#ffdb58 ;
+    padding: 20px;
+    margin:10px
+}
+.botoes-menu {
+    font-size: 25px;
+    font-style: solid;
+}
+
+.titulo{
+    color:rgb(0, 58, 82);
+    background-color: #ffdb58;
+    width: 17%;
+    padding: 20px;
+    margin:10px
+
+}
+
+#descricao-rasa {
+    color: rgb(0, 58, 82);
+    font-size: 20px;
+    font-style: italic;
+    text-align: center;
+    background-color: rgb(127, 231, 196);
+    padding: 20px;
+    margin:10px
+}
